@@ -16,6 +16,6 @@
         name="cache-path"
         path="." />
     <root-path
-        name="name"
+        name="root-path"
         path="." />
 </paths>
